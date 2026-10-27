@@ -1,6 +1,6 @@
 # GPS-Based Attendance System
 
-A web-based attendance management system developed using Laravel as part of a Diploma 3 (D3) final project. The application uses GPS location tracking to support employee attendance recording and provides features for attendance history and reporting.
+A web-based attendance management system developed using Laravel as part of a Diploma 3 (D3) final project 2023. The application uses GPS location tracking to support employee attendance recording and provides features for attendance history and reporting.
 
 ## Project Overview
 
