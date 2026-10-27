@@ -138,9 +138,7 @@ Potential areas for further development include:
 
 These items represent potential improvements and are not claims about existing functionality.
 
-## Author
 
-**David Dwi Ariyadi**
 
 GitHub: [@haidapid](https://github.com/haidapid)
 
